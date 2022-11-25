@@ -1,0 +1,27 @@
+{
+  "name": "ulugbek.tech",
+  "version": "1.0.0",
+  "description": "portfolio website",
+  "main": "index.js",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "5.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UlugbekTemirov/ulugbek.tech.git"
+  },
+  "keywords": [
+    "portfolio"
+  ],
+  "author": "Ulugbek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UlugbekTemirov/ulugbek.tech/issues"
+  },
+  "homepage": "https://github.com/UlugbekTemirov/ulugbek.tech#readme"
+}
